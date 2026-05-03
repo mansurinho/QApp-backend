@@ -14,7 +14,7 @@ require_once '../../config/db.php';
 // -----------------------------------------------
 // PUT YOUR OPENAI API KEY HERE
 // -----------------------------------------------
-$OPENAI_API_KEY = "sk-your-openai-key-here";
+$OPENAI_API_KEY = "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";
 // -----------------------------------------------
 
 $data          = json_decode(file_get_contents("php://input"), true);
