@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
 require_once '../../config/db.php';
 
 // -----------------------------------------------
-// PUT YOUR OPENAI API KEY HERE
+// Free AI model
 // -----------------------------------------------
 $OPENAI_API_KEY = "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";
 // -----------------------------------------------
